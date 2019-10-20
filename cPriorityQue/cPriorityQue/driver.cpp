@@ -20,9 +20,9 @@ int main() {
 	}
 
 	/*
-	Checking if the Queue is empty by using isEmpty function
+	Checking if the Queue is Not empty by using isNotEmpty function
 	*/
-	cout << "Checking if the Queue is empty by using isEmpty function\n";
+	cout << "Checking if the Queue is not empty by using isNotEmpty function\n";
 	if (queue.isNotEmpty()) {
 		cout << "Queue is not empty\n\n";
 	}
